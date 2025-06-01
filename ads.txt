@@ -1,1 +1,1 @@
-google.com, pub-5560712639765119, DIRECT, f08c47fec0942fa0
+Rename file to ads.txt
